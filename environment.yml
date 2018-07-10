@@ -39,7 +39,6 @@ dependencies:
   - traitlets=4.3.2
   - wcwidth=0.1.7
   - wheel=0.31.1
-  - wincertstore=0.2
   - zeromq=4.2.5
 prefix: C:\Users\User\AppData\Local\conda\conda\envs\binder_env
 
