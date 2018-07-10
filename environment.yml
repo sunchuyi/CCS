@@ -37,7 +37,6 @@ dependencies:
   - six=1.11.0
   - tornado=5.0.2
   - traitlets=4.3.2
-  - vs2015_runtime=14.0.25123
   - wcwidth=0.1.7
   - wheel=0.31.1
   - wincertstore=0.2
